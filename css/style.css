@@ -82,7 +82,7 @@ table th{background:#292929;}
 /*-- 어드민 사이드 --*/
 #admin_side_area{width:250px;;height:100vh;position:fixed;top:0;left:0;background:#0e0e0e;box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;z-index:99;}
 .logo_area{display:flex;justify-content:center;align-items:stretch;flex-direction:column;padding:40px;border-bottom:1px solid #161616}
-.logo_area a{display:flex;justify-content:center;align-items:center;flex-direction:column;cursor:pointer;user-select:none;}
+.logo_area a{text-align:left;}
 .logo_area .logo{width:220px;margin-bottom:16px;}
 .logo_area h1{color:#0BBF7D}
 .logo_area .ver{font-size:12px;color:#333333}
